@@ -1,54 +1,80 @@
 date,heure_paris,format,theme,reseaux,musique,fichier
-2026-11-13,14:00,reel,"Bienvenue à Kermenhir","ig,fb","celtique calme (instrumental)","ker-reels/kermenhir-finistere-reel-01-musicB.mp4"
-2026-11-14,11:00,reel,"Une journée à Kermenhir","ig,fb","fest-noz breton","ker-reels/ker-reel-journee-v8vo.mp4 (voix off ThunderBlade)"
-2026-11-15,11:00,carrousel,"Une journée à Kermenhir","ig,fb","—","petit-dejeuner+grande-table+salon-feu-2+coucher-soleil"
-2026-11-16,11:00,reel,"Soirées au coin du feu","ig,fb","fest-noz breton","ker-reels/ker-reel-soirees-v7.mp4"
-2026-11-17,11:00,carrousel,"Soirées au coin du feu","ig,fb","—","salon-feu-3+salon-feu-4+salon-feu-5+salon-feu-6"
-2026-11-18,11:00,reel,"Le charme des vieilles pierres","ig,fb","douce bretonne","ker-reels/ker-reel-charme-v7.mp4"
-2026-11-19,11:00,carrousel,"Le charme des vieilles pierres","ig,fb","—","salon-cheminee+feu-cheminee+salon-lumiere+chambre-combles"
-2026-11-20,11:00,reel,"Chambres & nuits paisibles","ig,fb","douce bretonne","ker-reels/ker-reel-chambres-v7.mp4"
-2026-11-21,11:00,carrousel,"Chambres & nuits paisibles","ig,fb","—","chambre-cosy+chambre-claire+chambre-commode+chambre-combles-2"
-2026-11-22,11:00,reel,"Jardin & lumières de Bretagne","ig,fb","nature bretonne","ker-reels/ker-reel-jardin-v7.mp4"
-2026-11-23,11:00,carrousel,"Jardin & lumières de Bretagne","ig,fb","—","hortensias+hortensias-chemin-2+coucher-pre+grange-nuit"
-2026-11-24,11:00,reel,"Le domaine au fil des saisons","ig,fb","nature bretonne","ker-reels/ker-reel-domaine-v7.mp4"
-2026-11-25,11:00,carrousel,"Le domaine au fil des saisons","ig,fb","—","grange-hortensias+lierre-automne+coucher-champs+coucher-soleil"
-2026-11-26,11:00,reel,"Les rochers du Goudoul","ig,fb","mer bretonne","ker-reels/ker-reel-goudoul-v8vo.mp4 (voix off ThunderBlade) (uuid -3378607991482071097)"
-2026-11-27,11:00,carrousel,"Les rochers du Goudoul","ig,fb","—","ker-car-goudoul-1..6-wm.jpg (uuid 5412797993781775903)"
-2026-11-28,11:00,reel,"Après la pluie","ig,fb","épique bagad","ker-reels/ker-reel-arcenciel-v7.mp4 (uuid 4649964159368579768)"
-2026-11-29,11:00,carrousel,"Après la pluie","ig,fb","—","ker-car-arcenciel-1..6-wm.jpg (uuid -6189068560924063452)"
-2026-11-30,11:00,reel,"Couchers de soleil","ig,fb","douce bretonne","ker-reels/ker-reel-couchant-v7.mp4 (uuid -4368444133199493539)"
-2026-12-01,11:00,carrousel,"Couchers de soleil","ig,fb","—","ker-car-couchant-1..6-wm.jpg (uuid 7027698604146247788)"
-2026-12-02,11:00,reel,"Loctudy, côté port","ig,fb","rock celtique","ker-reels/ker-reel-perdrix-v8vo.mp4 (voix off ThunderBlade) (uuid -6897232725365472063)"
-2026-12-03,11:00,carrousel,"Loctudy, côté port","ig,fb","—","ker-car-perdrix-1..6-wm.jpg (uuid 8146036530873386198)"
-2026-12-04,11:00,reel,"La rivière de Pont-l’Abbé","ig,fb","nature bretonne","ker-reels/ker-reel-riviere-v7.mp4 (uuid 7252830900871446749)"
-2026-12-05,11:00,carrousel,"La rivière de Pont-l’Abbé","ig,fb","—","ker-car-riviere-1..6-wm.jpg (uuid 7651141230283147)"
-2026-12-06,11:00,reel,"Plage de Kervilzic","ig,fb","mer bretonne","ker-reels/ker-reel-kervilzic-v8vo.mp4 (voix off ThunderBlade) (uuid -3357768487182578656)"
-2026-12-07,11:00,carrousel,"Plage de Kervilzic","ig,fb","—","ker-car-kervilzic-1..5-wm.jpg (uuid -1415563807427572934)"
-2026-12-08,11:00,reel,"Nuits de pleine lune","ig,fb","douce bretonne","ker-reels/ker-reel-lune-v7.mp4 (uuid -8226919503831807009)"
-2026-12-09,11:00,carrousel,"Nuits de pleine lune","ig,fb","—","ker-car-lune-1..6-wm.jpg (uuid -4063617689247134034)"
-2026-12-10,11:00,reel,"Saveurs bretonnes","ig,fb","fest-noz sax-clarinette","ker-reels/ker-reel-gourmandises-v8vo.mp4 (voix off ThunderBlade) (uuid 4340546104027663438)"
-2026-12-11,11:00,carrousel,"Saveurs bretonnes","ig,fb","—","ker-car-gourmandises-1..5-wm.jpg (uuid 6884815545120017984)"
-2026-12-12,11:00,reel,"Le sentier côtier du Goudoul","ig,fb","mer bretonne","ker-reels/ker-reel-sentier-v8vo.mp4 (voix off ThunderBlade) (uuid -4090025321613669508)"
-2026-12-13,11:00,carrousel,"Le sentier côtier du Goudoul","ig,fb","—","ker-car-sentier-1..4-wm.jpg (uuid -7414492260832951528)"
-2026-12-14,11:00,reel,"Au coin du feu","ig,fb","festive décembre","ker-reels/ker-reel-feu-v7.mp4 (uuid 5565280573964961363)"
-2026-12-15,11:00,carrousel,"Au coin du feu","ig,fb","—","ker-car-feu-1..6-wm.jpg (uuid -3622225072662363107)"
-2026-12-16,11:00,reel,"Matins de brume","ig,fb","nature bretonne","ker-reels/ker-reel-brume-v7.mp4 (uuid 4088387144648705794)"
-2026-12-17,11:00,carrousel,"Matins de brume","ig,fb","—","ker-car-brume-1..4-wm.jpg (uuid -6045462196665891764)"
-2026-12-18,11:00,reel,"Balades autour du domaine","ig,fb","fest-noz breton","ker-reels/ker-reel-balades-v7.mp4 (uuid -6480992787087736225)"
-2026-12-19,11:00,carrousel,"Balades autour du domaine","ig,fb","—","ker-car-balades-1..5-wm.jpg (uuid -3511281664253738714)"
-2026-12-20,11:00,reel,"Pont-l’Abbé, pays bigouden","ig,fb","bagad","ker-reels/ker-reel-pontlabbe-v8vo.mp4 (voix off ThunderBlade) (uuid 1113868787301172586)"
-2026-12-21,11:00,carrousel,"Pont-l’Abbé, pays bigouden","ig,fb","—","ker-car-pontlabbe-1..5-wm.jpg (uuid 7856133935481241857)"
-2026-12-22,11:00,reel,"Locronan illuminé","ig,fb","électro fest-noz + voix off","ker-reels/ker-reel-locronan-v8vo.mp4 (uuid -8739691438811165056)"
-2026-12-23,11:00,carrousel,"Locronan illuminé","ig,fb","—","ker-car-locronan-1..6-wm.jpg (uuid 8903749578328526325)"
-2026-12-24,11:00,reel,"Noël à Locronan","ig,fb","épique bagad","ker-reels/ker-reel-locronan-eglise-v7.mp4 (uuid 996580450398783524)"
-2026-12-25,11:00,carrousel,"Noël à Locronan","ig,fb","—","ker-car-locronan-eglise-1..6-wm.jpg (uuid 7973149747378933313)"
-2026-12-26,11:00,reel,"Le chemin de halage en hiver","ig,fb","nature bretonne","ker-reels/ker-reel-halage-hiver-v7.mp4 (uuid -7086374108146941821)"
-2026-12-27,11:00,carrousel,"Le chemin de halage en hiver","ig,fb","—","ker-car-halage-hiver-1..6-wm.jpg (uuid -7909483958083697437)"
-2026-12-28,11:00,reel,"Une drôle de rencontre","ig,fb","fest-noz sax + voix off","ker-reels/ker-reel-rencontre-v8vo.mp4 (uuid 5794481786476121630)"
-2026-12-29,11:00,carrousel,"Une drôle de rencontre","ig,fb","—","ker-car-rencontre-1..6-wm.jpg (uuid -8557003445336389760)"
-2026-12-30,11:00,reel,"Le quai Saint-Laurent","ig,fb","mer bretonne","ker-reels/ker-reel-quai-st-laurent-v7.mp4 (uuid 5062044111566228289)"
-2026-12-31,11:00,carrousel,"Le quai Saint-Laurent","ig,fb","—","ker-car-quai-st-laurent-1..5-wm.jpg (uuid 2916466525922871765)"
-2027-01-01,11:00,reel,"Pont-l'Abbé, ville de dentelle","ig,fb","fest-noz + voix off","ker-reels/ker-reel-pontlabbe-dentelle-v8vo.mp4 (uuid 3070529406238474355)"
-2027-01-02,11:00,carrousel,"Pont-l'Abbé, ville de dentelle","ig,fb","—","ker-car-pontlabbe-dentelle-1..6-wm.jpg (uuid -1885537414950665352)"
-2027-01-03,11:00,reel,"La plage du port de Loctudy","ig,fb","rock celtique + voix off","ker-reels/ker-reel-perdrix-plage-v8vo.mp4 (uuid -7736560746349117198)"
-2027-01-04,11:00,carrousel,"La plage du port de Loctudy","ig,fb","—","ker-car-perdrix-plage-1..6-wm.jpg (uuid 2733115492063334348)"
+2026-11-13,14:00,reel,Bienvenue à Kermenhir,"ig,fb",celtique calme (instrumental),ker-reels/kermenhir-finistere-reel-01-musicB.mp4
+2026-11-14,11:00,reel,Une journée à Kermenhir,"ig,fb",fest-noz breton,ker-reels/ker-reel-journee-v8vo.mp4 (voix off ThunderBlade)
+2026-11-15,11:00,carrousel,Une journée à Kermenhir,"ig,fb",—,petit-dejeuner+grande-table+salon-feu-2+coucher-soleil
+2026-11-16,11:00,reel,Soirées au coin du feu,"ig,fb",fest-noz breton,ker-reels/ker-reel-soirees-v7.mp4
+2026-11-17,11:00,carrousel,Soirées au coin du feu,"ig,fb",—,salon-feu-3+salon-feu-4+salon-feu-5+salon-feu-6
+2026-11-18,11:00,reel,Le charme des vieilles pierres,"ig,fb",douce bretonne,ker-reels/ker-reel-charme-v7.mp4
+2026-11-19,11:00,carrousel,Le charme des vieilles pierres,"ig,fb",—,salon-cheminee+feu-cheminee+salon-lumiere+chambre-combles
+2026-11-20,11:00,reel,Chambres & nuits paisibles,"ig,fb",douce bretonne,ker-reels/ker-reel-chambres-v7.mp4
+2026-11-21,11:00,carrousel,Chambres & nuits paisibles,"ig,fb",—,chambre-cosy+chambre-claire+chambre-commode+chambre-combles-2
+2026-11-22,11:00,reel,Jardin & lumières de Bretagne,"ig,fb",nature bretonne,ker-reels/ker-reel-jardin-v7.mp4
+2026-11-23,11:00,carrousel,Jardin & lumières de Bretagne,"ig,fb",—,hortensias+hortensias-chemin-2+coucher-pre+grange-nuit
+2026-11-24,11:00,reel,Le domaine au fil des saisons,"ig,fb",nature bretonne,ker-reels/ker-reel-domaine-v7.mp4
+2026-11-25,11:00,carrousel,Le domaine au fil des saisons,"ig,fb",—,grange-hortensias+lierre-automne+coucher-champs+coucher-soleil
+2026-11-26,11:00,reel,Les rochers du Goudoul,"ig,fb",mer bretonne,ker-reels/ker-reel-goudoul-v8vo.mp4 (voix off ThunderBlade) (uuid -3378607991482071097)
+2026-11-27,11:00,carrousel,Les rochers du Goudoul,"ig,fb",—,ker-car-goudoul-1..6-wm.jpg (uuid 5412797993781775903)
+2026-11-28,11:00,reel,Après la pluie,"ig,fb",épique bagad,ker-reels/ker-reel-arcenciel-v7.mp4 (uuid 4649964159368579768)
+2026-11-29,11:00,carrousel,Après la pluie,"ig,fb",—,ker-car-arcenciel-1..6-wm.jpg (uuid -6189068560924063452)
+2026-11-30,11:00,reel,Couchers de soleil,"ig,fb",douce bretonne,ker-reels/ker-reel-couchant-v7.mp4 (uuid -4368444133199493539)
+2026-12-01,11:00,carrousel,Couchers de soleil,"ig,fb",—,ker-car-couchant-1..6-wm.jpg (uuid 7027698604146247788)
+2026-12-02,11:00,reel,"Loctudy, côté port","ig,fb",rock celtique,ker-reels/ker-reel-perdrix-v8vo.mp4 (voix off ThunderBlade) (uuid -6897232725365472063)
+2026-12-03,11:00,carrousel,"Loctudy, côté port","ig,fb",—,ker-car-perdrix-1..6-wm.jpg (uuid 8146036530873386198)
+2026-12-04,11:00,reel,La rivière de Pont-l’Abbé,"ig,fb",nature bretonne,ker-reels/ker-reel-riviere-v7.mp4 (uuid 7252830900871446749)
+2026-12-05,11:00,carrousel,La rivière de Pont-l’Abbé,"ig,fb",—,ker-car-riviere-1..6-wm.jpg (uuid 7651141230283147)
+2026-12-06,11:00,reel,Plage de Kervilzic,"ig,fb",mer bretonne,ker-reels/ker-reel-kervilzic-v8vo.mp4 (voix off ThunderBlade) (uuid -3357768487182578656)
+2026-12-07,11:00,carrousel,Plage de Kervilzic,"ig,fb",—,ker-car-kervilzic-1..5-wm.jpg (uuid -1415563807427572934)
+2026-12-08,11:00,reel,Nuits de pleine lune,"ig,fb",douce bretonne,ker-reels/ker-reel-lune-v7.mp4 (uuid -8226919503831807009)
+2026-12-09,11:00,carrousel,Nuits de pleine lune,"ig,fb",—,ker-car-lune-1..6-wm.jpg (uuid -4063617689247134034)
+2026-12-10,11:00,reel,Saveurs bretonnes,"ig,fb",fest-noz sax-clarinette,ker-reels/ker-reel-gourmandises-v8vo.mp4 (voix off ThunderBlade) (uuid 4340546104027663438)
+2026-12-11,11:00,carrousel,Saveurs bretonnes,"ig,fb",—,ker-car-gourmandises-1..5-wm.jpg (uuid 6884815545120017984)
+2026-12-12,11:00,reel,Le sentier côtier du Goudoul,"ig,fb",mer bretonne,ker-reels/ker-reel-sentier-v8vo.mp4 (voix off ThunderBlade) (uuid -4090025321613669508)
+2026-12-13,11:00,carrousel,Le sentier côtier du Goudoul,"ig,fb",—,ker-car-sentier-1..4-wm.jpg (uuid -7414492260832951528)
+2026-12-14,11:00,reel,Au coin du feu,"ig,fb",festive décembre,ker-reels/ker-reel-feu-v7.mp4 (uuid 5565280573964961363)
+2026-12-15,11:00,carrousel,Au coin du feu,"ig,fb",—,ker-car-feu-1..6-wm.jpg (uuid -3622225072662363107)
+2026-12-16,11:00,reel,Matins de brume,"ig,fb",nature bretonne,ker-reels/ker-reel-brume-v7.mp4 (uuid 4088387144648705794)
+2026-12-17,11:00,carrousel,Matins de brume,"ig,fb",—,ker-car-brume-1..4-wm.jpg (uuid -6045462196665891764)
+2026-12-18,11:00,reel,Noël à Kermenhir,"ig,fb",harpe + bombarde (Noël),ker-reels/ker-reel-noel-kermenhir-v7.mp4 (uuid 4822631939701231285)
+2026-12-19,11:00,carrousel,Noël à Kermenhir,"ig,fb",—,ker-car-noel-kermenhir-1..6-wm.jpg (uuid -4093412437233874879)
+2026-12-20,11:00,reel,"Pont-l’Abbé, pays bigouden","ig,fb",bagad,ker-reels/ker-reel-pontlabbe-v8vo.mp4 (voix off ThunderBlade) (uuid 1113868787301172586)
+2026-12-21,11:00,carrousel,"Pont-l’Abbé, pays bigouden","ig,fb",—,ker-car-pontlabbe-1..5-wm.jpg (uuid 7856133935481241857)
+2026-12-22,11:00,reel,Locronan illuminé,"ig,fb",électro fest-noz + voix off,ker-reels/ker-reel-locronan-v8vo.mp4 (uuid -8739691438811165056)
+2026-12-23,11:00,carrousel,Locronan illuminé,"ig,fb",—,ker-car-locronan-1..6-wm.jpg (uuid 8903749578328526325)
+2026-12-24,11:00,reel,Noël à Locronan,"ig,fb",épique bagad,ker-reels/ker-reel-locronan-eglise-v7.mp4 (uuid 996580450398783524)
+2026-12-25,11:00,carrousel,Noël à Locronan,"ig,fb",—,ker-car-locronan-eglise-1..6-wm.jpg (uuid 7973149747378933313)
+2026-12-26,11:00,reel,Le chemin de halage en hiver,"ig,fb",nature bretonne,ker-reels/ker-reel-halage-hiver-v7.mp4 (uuid -7086374108146941821)
+2026-12-27,11:00,carrousel,Le chemin de halage en hiver,"ig,fb",—,ker-car-halage-hiver-1..6-wm.jpg (uuid -7909483958083697437)
+2026-12-28,11:00,reel,Une drôle de rencontre,"ig,fb",fest-noz sax + voix off,ker-reels/ker-reel-rencontre-v8vo.mp4 (uuid 5794481786476121630)
+2026-12-29,11:00,carrousel,Une drôle de rencontre,"ig,fb",—,ker-car-rencontre-1..6-wm.jpg (uuid -8557003445336389760)
+2026-12-30,11:00,reel,Le quai Saint-Laurent,"ig,fb",mer bretonne,ker-reels/ker-reel-quai-st-laurent-v7.mp4 (uuid 5062044111566228289)
+2026-12-31,11:00,carrousel,Le quai Saint-Laurent,"ig,fb",—,ker-car-quai-st-laurent-1..5-wm.jpg (uuid 2916466525922871765)
+2027-01-01,11:00,reel,"Pont-l'Abbé, ville de dentelle","ig,fb",fest-noz + voix off,ker-reels/ker-reel-pontlabbe-dentelle-v8vo.mp4 (uuid 3070529406238474355)
+2027-01-02,11:00,carrousel,"Pont-l'Abbé, ville de dentelle","ig,fb",—,ker-car-pontlabbe-dentelle-1..6-wm.jpg (uuid -1885537414950665352)
+2027-01-03,11:00,reel,La plage du port de Loctudy,"ig,fb",rock celtique + voix off,ker-reels/ker-reel-perdrix-plage-v8vo.mp4 (uuid -7736560746349117198)
+2027-01-04,11:00,carrousel,La plage du port de Loctudy,"ig,fb",—,ker-car-perdrix-plage-1..6-wm.jpg (uuid 2733115492063334348)
+2027-01-05,11:00,reel,Balades autour du domaine,"ig,fb",fest-noz breton,ker-reels/ker-reel-balades-v7.mp4 (uuid -6480992787087736225)
+2027-01-06,11:00,carrousel,Balades autour du domaine,"ig,fb",—,ker-car-balades-1..5-wm.jpg (uuid -3511281664253738714)
+2027-01-07,11:00,reel,L’heure bleue,"ig,fb",harpe + bombarde lente,ker-reels/ker-reel-heure-bleue-v7.mp4 (uuid -3357937526963157648)
+2027-01-08,11:00,carrousel,L’heure bleue,"ig,fb",—,ker-car-heure-bleue-1..6-wm.jpg (uuid 82615480585177362)
+2027-01-09,11:00,reel,Votre groupe en 2027,"ig,fb",bagad + voix off,ker-reels/ker-reel-groupe-2027-v8vo.mp4 (uuid -9014539291572809807)
+2027-01-10,11:00,carrousel,Votre groupe en 2027,"ig,fb",—,ker-car-groupe-2027-1..6-wm.jpg (uuid -2689934092843135123)
+2027-01-11,11:00,reel,Côte de granit du Goudoul,"ig,fb",bombarde + caisse claire,ker-reels/ker-reel-goudoul-granit-v7.mp4 (uuid -2062854443431605556)
+2027-01-12,11:00,carrousel,Côte de granit du Goudoul,"ig,fb",—,ker-car-goudoul-granit-1..6-wm.jpg (uuid 2853771745290174804)
+2027-01-13,11:00,reel,Retraites à Kermenhir,"ig,fb",harpe + voix off,ker-reels/ker-reel-retraites-v8vo.mp4 (uuid 2372248715685873272)
+2027-01-14,11:00,carrousel,Retraites à Kermenhir,"ig,fb",—,ker-car-retraites-1..6-wm.jpg (uuid -1516568078503620932)
+2027-01-15,11:00,reel,Voiles blanches à Loctudy,"ig,fb",gavotte bombarde/biniou,ker-reels/ker-reel-voiles-loctudy-v7.mp4 (uuid -430227452853533172)
+2027-01-16,11:00,carrousel,Voiles blanches à Loctudy,"ig,fb",—,ker-car-voiles-loctudy-1..6-wm.jpg (uuid -2382941394337577343)
+2027-01-17,11:00,reel,Les arbres du domaine,"ig,fb",nature,ker-reels/ker-reel-arbres-v7.mp4 (uuid -1726585615125494112)
+2027-01-18,11:00,carrousel,Les arbres du domaine,"ig,fb",—,ker-car-arbres-1..6-wm.jpg (uuid 5316239738426837654)
+2027-01-19,11:00,reel,Nuits d’été,"ig,fb",douce,ker-reels/ker-reel-nuits-ete-v7.mp4 (uuid 6361596095252809463)
+2027-01-20,11:00,carrousel,Nuits d’été,"ig,fb",—,ker-car-nuits-ete-1..6-wm.jpg (uuid -943187928997934982)
+2027-01-21,11:00,reel,Granit et lierre,"ig,fb",rock celtique,ker-reels/ker-reel-granit-lierre-v7.mp4 (uuid 2003292352012699599)
+2027-01-22,11:00,carrousel,Granit et lierre,"ig,fb",—,ker-car-granit-lierre-1..6-wm.jpg (uuid 4573863930218629081)
+2027-01-23,11:00,reel,La rivière en automne,"ig,fb",harpe (2),ker-reels/ker-reel-riviere-automne-v7.mp4 (uuid -7903870605917338519)
+2027-01-24,11:00,carrousel,La rivière en automne,"ig,fb",—,ker-car-riviere-automne-1..6-wm.jpg (uuid -2235142033027217296)
+2027-01-25,11:00,reel,Cuisine d’hiver,"ig,fb",fête + voix off,ker-reels/ker-reel-cuisine-hiver-v8vo.mp4 (uuid 8036685261023561437)
+2027-01-26,11:00,carrousel,Cuisine d’hiver,"ig,fb",—,ker-car-cuisine-hiver-1..6-wm.jpg (uuid 2334377739036739915)
+2027-01-27,11:00,reel,Pleine lune,"ig,fb",épique,ker-reels/ker-reel-pleine-lune-v7.mp4 (uuid -1618438560379942495)
+2027-01-28,11:00,carrousel,Pleine lune,"ig,fb",—,ker-car-pleine-lune-1..6-wm.jpg (uuid -4200506993299338478)
+2027-01-29,11:00,reel,Ciels de Bretagne,"ig,fb",mer,ker-reels/ker-reel-ciels-v7.mp4 (uuid -8333519099284337427)
+2027-01-30,11:00,carrousel,Ciels de Bretagne,"ig,fb",—,ker-car-ciels-1..6-wm.jpg (uuid -7921815279300621441)
